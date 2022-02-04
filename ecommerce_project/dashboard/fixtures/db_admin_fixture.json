@@ -1,0 +1,14 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "admin",
+      "password": "pbkdf2_sha256$320000$DfUKRQRhVOzvVtCr1wG54n$WgSWGAwB6SCr89lZNwvRdNuA7SpbOqtnlh2ml0iuIro=",
+      "email": "testinguser@faked.com",
+      "is_superuser": true,
+      "is_staff": true,
+      "is_active": true
+    }
+  }
+]
