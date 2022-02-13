@@ -7,7 +7,7 @@
     pip install django
     django-admin startproject ecommerce_project
 
-# Dependencies:\
+# Dependencies:
 
     pip install pytest
     pip install pytest-django
@@ -15,7 +15,7 @@
     pip install pytest-selenium
     download a ChromeDriver for the version of Chrome
 
-# Notes:\
+# Notes:
 
     pytest -m "not selenium" -rP
     py manage.py dumpdata inventory.category --indent 4 > new.json
