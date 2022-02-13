@@ -38,8 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # Local applications
-    "ecommerce_project.dashboard",
+    'ecommerce_project.dashboard',
     'ecommerce_project.inventory',
+    'ecommerce_project.demo',
     # External applications
     "mptt",
 
@@ -115,7 +116,7 @@ TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
-USE_TZ = True
+USE_TZ = False
 
 
 # Static files (CSS, JavaScript, Images)
