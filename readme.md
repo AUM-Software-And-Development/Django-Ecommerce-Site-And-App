@@ -1,3 +1,5 @@
+The tutorial for this project is located here: https://www.youtube.com/playlist?list=PLOLrQ9Pn6cay_cQkyg-WYYiJ_EKU8KWKh
+
 ![alt text](https://lucid.app/publicSegments/view/54f2757e-9c2b-428d-ae1a-2bad5f74ea61/image.jpeg)
 
 # Installation steps:
